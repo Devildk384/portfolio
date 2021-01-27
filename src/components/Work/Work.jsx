@@ -103,7 +103,7 @@ const Work = () => {
             
               <a
                 
-                href="http://20.55.33.165/"
+                href="http://35.202.180.243/"
 
                 rel="noopener noreferrer"
                 target="_blank"
@@ -118,7 +118,7 @@ const Work = () => {
 
           <figure className="project__img-wrapper">
             <a
-              href="http://20.55.33.165/"
+              href="http://35.202.180.243/"
               rel="noopener noreferrer"
               target="_blank"
             >
