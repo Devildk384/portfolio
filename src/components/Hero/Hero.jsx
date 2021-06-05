@@ -15,7 +15,7 @@ const Hero = () => {
           I build things for web and the Android<span className="hero__dot1"></span>
         </h2>
         <p className="hero__text hero__text--2">
-          I'm a web Developer based in Delhi, India. You can check out my
+          I'm a web Developer based in Noida, India. You can check out my
           work below.
         </p>
 
